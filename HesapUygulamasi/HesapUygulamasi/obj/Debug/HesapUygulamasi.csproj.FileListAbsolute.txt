@@ -1,0 +1,10 @@
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\bin\Debug\200601035 Ödev1.exe.config
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\bin\Debug\200601035 Ödev1.exe
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\bin\Debug\200601035 Ödev1.pdb
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\HesapUygulamasi.csproj.AssemblyReference.cache
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\_200601035_Ödev1.Form1.resources
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\_200601035_Ödev1.Properties.Resources.resources
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\HesapUygulamasi.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\HesapUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\200601035 Ödev1.exe
+C:\Users\Melisa\Desktop\HesapUygulamasi\200601035 Ödev1\obj\Debug\200601035 Ödev1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\bin\Debug\200601035 Ödev1.exe.config
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\bin\Debug\200601035 Ödev1.exe
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\bin\Debug\200601035 Ödev1.pdb
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\200601035 Ödev1.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\_200601035_Ödev1.Form1.resources
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\_200601035_Ödev1.Properties.Resources.resources
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\200601035 Ödev1.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\200601035 Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\200601035 Ödev1.exe
+C:\Users\Kaan\source\repos\200601035 Ödev1\200601035 Ödev1\obj\Debug\200601035 Ödev1.pdb
